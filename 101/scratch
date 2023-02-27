@@ -1,0 +1,2 @@
+influx write --bucket noaa --url https://influx-testdata.s3.amazonaws.com/noaa.csv
+
